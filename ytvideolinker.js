@@ -4,7 +4,7 @@
 // allow pasting
 
 //COPY & PASTE CODE 1:
- let goToBottom = setInterval(() => window.scrollBy(0, 400), 1000);
+let goToBottom = setInterval(() => window.scrollBy(0, 400), 1000);
 
 //COPY & PASTE CODE 2:
 clearInterval(goToBottom);
